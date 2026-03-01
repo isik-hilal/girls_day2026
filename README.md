@@ -2,26 +2,28 @@
 
 ## Kurzbeschreibung
 
-In diesem Workshop lernen wir **Python kennen** und entdecken gleichzeitig **inspirierende Frauen in der Technik**.  
-Wir starten stark: Mit **Statistiken über Frauen in MINT-Berufen** und erfahren, warum es wichtig ist, dass mehr Frauen in Technik und Informatik einsteigen.  
+In diesem Workshop lernen wir **Python kennen** und entdecken gleichzeitig **inspirierende Frauen in allen Bereichen**.  
 
-Danach schauen wir uns **einige der wichtigsten Role Models** an, z. B. Ada Lovelace, Grace Hopper, Radia Perlman, Hedy Lamarr – und verstehen ihre Beiträge. Erst danach steigen wir **praktisch ins Programmieren** ein.  
+Wir starten stark: Mit **Statistiken über Frauen in MINT-Berufen** und warum es wichtig ist, dass mehr Frauen in Technik und Informatik einsteigen. Danach erweitern wir den Blick: **Frauen sind überall erfolgreich** – in **Sport, Kunst, Musik, Politik, Wissenschaft** und vielem mehr. Wir nennen konkrete Beispiele, schauen auf ihre Leistungen und sprechen darüber, warum sie inspirierend sind.  
+
+Erst danach steigen wir **praktisch ins Programmieren** ein – wir lernen Python-Befehle, erstellen kleine Programme und Quizze, um diese Frauen vorzustellen und ihre Geschichten sichtbar zu machen.  
 
 ---
 
 ## Programmablauf
 
-### Starker Start: Warum Frauen in Tech?
+### Starker Start: Warum Frauen in Tech & anderen Bereichen?
 - Statistiken: Anteil von Frauen in STEM-Berufen, Informatik und Technik  
 - Kurze Diskussion: Warum es wichtig ist, dass mehr Frauen in Tech einsteigen  
-- Motivation: Ihr könnt Technik mitgestalten und eigene Ideen programmieren  
+- Erweiterung: Frauen sind auch in Sport, Kunst, Musik, Politik und Wissenschaft erfolgreich  
+- Motivation: Ihr könnt Technik gestalten und eigene Ideen umsetzen  
 
-### Inspirierende Frauen in der Informatik / Technik
-- **Ada Lovelace:** erste Programmiererin, Algorithmus für Babbages Maschine  
-- **Grace Hopper:** Pionierin der Programmiersprachen  
-- **Radia Perlman:** „Mother of the Internet“  
-- **Hedy Lamarr:** Co-Inventorin der Frequenzsprung-Technik  
-- Kurze Geschichten zu ihren Errungenschaften und Einfluss  
+### Inspirierende Frauen
+- **In der Technik / Informatik:** Ada Lovelace, Grace Hopper, Radia Perlman, Hedy Lamarr  
+- **In Sport:** Alica Schmidt, Lea Schüller  
+- **In Musik & Rap:** Nina Chuba, badmómzjay, Shirin David  
+- **In Politik / Gesellschaft:** z. B. Mariama White-Hammond oder lokale Role Models  
+- Kurze Geschichten zu ihren Erfolgen, Einfluss und warum sie inspirieren  
 
 ### Eigene Vorstellungsrunde (Coding Schritt 1)
 - `print()` kennenlernen  
@@ -30,7 +32,7 @@ Danach schauen wir uns **einige der wichtigsten Role Models** an, z. B. Ada Lo
 - Bild einfügen (`Image` + `display`)  
 
 ### Gruppenarbeit: Quiz über inspirierende Frauen (Coding Schritt 2)
-- Quizfragen erstellen: Clues + Multiple Choice + kurze Infos  
+- Quizfragen erstellen: Hinweise + Multiple Choice + kurze Infos  
 - Bilder der Role Models einfügen  
 - Mit `input()` und `if/else` Antworten abfragen  
 
@@ -47,12 +49,12 @@ Danach schauen wir uns **einige der wichtigsten Role Models** an, z. B. Ada Lo
 ## Ziel des Workshops
 
 Dieser Workshop ist dafür da, euch einen **ersten, positiven Einblick in Programmieren und Technik** zu geben.  
-Wir möchten zeigen, dass **Tech kein kompliziertes oder „nur für Jungs“ Thema** ist, sondern etwas, das ihr selbst gestalten könnt.
+Wir möchten zeigen, dass **Tech kein kompliziertes oder „nur für Jungs“ Thema** ist, sondern etwas, das ihr selbst gestalten könnt – genau wie Frauen in allen anderen Bereichen.  
 
-Unser Ziel ist, dass ihr:
+Unser Ziel ist, dass ihr:  
 - neugierig auf Technik und Programmieren werdet  
-- seht, dass es **viele inspirierende Frauen** in der Tech-Welt gibt  
-- merkt, dass Fehler normal sind und zum Lernen dazugehören  
+- seht, dass **Frauen überall erfolgreich sein können**  
+- versteht, dass Fehler normal sind und zum Lernen dazugehören  
 - Selbstvertrauen bekommt, eigene Ideen mit Code umzusetzen  
 
 Es geht **nicht** darum, alles perfekt zu können – sondern darum, **auszuprobieren, zu verstehen und Spaß zu haben**.
@@ -61,14 +63,13 @@ Es geht **nicht** darum, alles perfekt zu können – sondern darum, **auszuprob
 
 ## Was ihr in diesem Workshop lernt
 
-Am Ende des Workshops sollt ihr:
-
+Am Ende des Workshops sollt ihr:  
 - wissen, **warum wir mehr Frauen in Technik und Informatik brauchen**  
-- einige der **wichtigsten Frauen in der Computer- und Tech-Geschichte** kennen  
+- einige der **wichtigsten Frauen in Tech und anderen Bereichen** kennen  
 - verstehen, wie Programmieren grundsätzlich funktioniert  
 - einfache Python-Befehle anwenden können (`print()`, `input()`, `if/else`)  
 - eigene kleine Programme schreiben (Vorstellung & Quiz)  
 - erleben, dass **Technik kreativ, persönlich und empowernd** sein kann  
 
 Unser Ziel ist, dass ihr am Ende denkt:  
-**„Das kann ich auch.“**
+**„Das kann ich auch.“**  
